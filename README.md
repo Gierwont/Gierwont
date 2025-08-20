@@ -6,6 +6,7 @@ development
 </p>
 <h2>Things I code with</h3>
 <p>
+    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-black?logo=nodedotjs" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ffffff" />
@@ -40,17 +41,32 @@ development
 <td><img alt="Issues" src="https://img.shields.io/github/issues/Gierwont/tipitipi-frontend?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Gierwont/tipitipi-frontend?style=flat-square&labelColor=343b41"/></td>
 </tr>
+<tr>
+<td><a href="https://github.com/Gierwont/ephemvid-frontend"><b>EphemVid frontend</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/Gierwont/ephemvid-frontend?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/Gierwont/ephemvid-frontend?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/Gierwont/ephemvid-frontend?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Gierwont/ephemvid-frontend?style=flat-square&labelColor=343b41"/></td>
+</tr>
+    <tr>
+<td><a href="https://github.com/Gierwont/ephemvid-backend"><b>EphemVid backend</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/Gierwont/ephemvid-backend?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/Gierwont/ephemvid-backend?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/Gierwont/ephemvid-backend?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Gierwont/ephemvid-backend?style=flat-square&labelColor=343b41"/></td>
+</tr>
 </tbody>
 </table>
-
+<!--
 <h2>Some profile stats:</h4>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gierwont&show_icons=true&theme=nord" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gierwont&theme=nord&layout=compact" />
-</a>
-
+</a> 
+<!--
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gierwont&theme=nord&langs_count=5"/>
-</a>
+</a>-->
+
