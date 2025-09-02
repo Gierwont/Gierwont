@@ -4,6 +4,7 @@
 I'm Gierwin, a software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> <b>Poland</b> passionate about web 
 development 
 </p>
+<a href="https://gierwont.github.io/portfolio/">Checkout my portfolio website!</a>
 <h2>Things I code with</h3>
 <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-black?logo=nodedotjs" />
